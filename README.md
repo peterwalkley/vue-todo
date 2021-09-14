@@ -13,6 +13,11 @@ task data stuff around.
 npm install
 ```
 
+### Run backend for data store
+```
+npm run backend
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
