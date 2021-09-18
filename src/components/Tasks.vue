@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import Task from "./Task";
+import Task from "./Task.vue";
 import { mapActions, mapGetters } from "vuex";
 export default {
   name: "Tasks",
